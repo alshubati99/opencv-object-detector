@@ -1,4 +1,4 @@
-# Building Realtime Object Detection Software.
+# Building Realtime Object Detection Software Using Python and Opencv.
 ## This program only detects persons and cell phones in realtime and I have implemented this with the help of [This Tutorial](https://www.youtube.com/watch?v=bUoWTPaKUi4&t=559s)
 
 ### This is to practice for my graduation project "***AI-Powerd Pedesterains detector-BeamEye***"
